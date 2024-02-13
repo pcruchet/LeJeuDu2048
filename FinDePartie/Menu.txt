@@ -1,0 +1,5 @@
+Ajouter Joueur
+Visualiser Joueur
+Charger partie
+Sauvegarder partie
+Quitter
